@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_contact_picture.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-hdpi\\ic_contact_picture.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_popup_reminder.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-hdpi\\ic_popup_reminder.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\progress_particle.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-hdpi\\progress_particle.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\progress_circular_background.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-hdpi\\progress_circular_background.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\npatch240dpi.9.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-hdpi\\npatch240dpi.9.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_launcher_settings.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_settings.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\reslogo240dpi.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-hdpi\\reslogo240dpi.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon48x48_2.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-hdpi\\icon48x48_2.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\apidemo_androidlogo.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-hdpi\\apidemo_androidlogo.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\arrow_down_float.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-hdpi\\arrow_down_float.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\scrollbar_state2.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-hdpi\\scrollbar_state2.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\arrow_up_float.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-hdpi\\arrow_up_float.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_circle_normal.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-hdpi\\btn_circle_normal.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\stylogo240dpi.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-hdpi\\stylogo240dpi.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\stat_neutral.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-hdpi\\stat_neutral.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_default_normal.9.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-hdpi\\btn_default_normal.9.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\stat_sample.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-hdpi\\stat_sample.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\star_big_on.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-hdpi\\star_big_on.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\stat_happy.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-hdpi\\stat_happy.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\stat_sad.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-hdpi\\stat_sad.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_check_on.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-hdpi\\btn_check_on.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\smlnpatch240dpi.9.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-hdpi\\smlnpatch240dpi.9.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\button.9.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-hdpi\\button.9.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\alert_dialog_icon.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-hdpi\\alert_dialog_icon.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\app_sample_code.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-hdpi\\app_sample_code.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\logo240dpi.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-hdpi\\logo240dpi.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_check_off.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-hdpi\\btn_check_off.png"
+    }
+]

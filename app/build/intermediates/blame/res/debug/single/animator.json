@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\android EXE\\ApiDemos19(run right\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_left_exit.xml",
+        "source": "D:\\android EXE\\ApiDemos19(run right\\app\\src\\main\\res\\animator\\fragment_slide_left_exit.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19(run right\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_right_enter.xml",
+        "source": "D:\\android EXE\\ApiDemos19(run right\\app\\src\\main\\res\\animator\\fragment_slide_right_enter.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_left_enter.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\animator\\fragment_slide_left_enter.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19(run right\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_left_enter.xml",
+        "source": "D:\\android EXE\\ApiDemos19(run right\\app\\src\\main\\res\\animator\\fragment_slide_left_enter.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_left_exit.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\animator\\fragment_slide_left_exit.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_right_exit.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\animator\\fragment_slide_right_exit.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_right_enter.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\animator\\fragment_slide_right_enter.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19(run right\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fragment_slide_right_exit.xml",
+        "source": "D:\\android EXE\\ApiDemos19(run right\\app\\src\\main\\res\\animator\\fragment_slide_right_exit.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\stylogo120dpi.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-ldpi\\stylogo120dpi.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\reslogo120dpi.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-ldpi\\reslogo120dpi.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\logo120dpi.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-ldpi\\logo120dpi.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\npatch120dpi.9.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-ldpi\\npatch120dpi.9.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\smlnpatch120dpi.9.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-ldpi\\smlnpatch120dpi.9.png"
+    }
+]

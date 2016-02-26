@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\layout-sw480dp-v13\\resources_smallest_width_row.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\layout-sw480dp\\resources_smallest_width_row.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\layout-sw480dp-v13\\resources_smallest_width_inner.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\layout-sw480dp\\resources_smallest_width_inner.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\logonodpi120.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-nodpi\\logonodpi120.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\frantic.jpg",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-nodpi\\frantic.jpg"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\logonodpi160.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-nodpi\\logonodpi160.png"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\logonodpi240.png",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\drawable-nodpi\\logonodpi240.png"
+    }
+]

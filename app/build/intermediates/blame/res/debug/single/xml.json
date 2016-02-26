@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\debug\\xml\\default_values.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\xml\\default_values.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19(run right\\app\\build\\intermediates\\res\\merged\\debug\\xml\\fragmented_preferences.xml",
+        "source": "D:\\android EXE\\ApiDemos19(run right\\app\\src\\main\\res\\xml\\fragmented_preferences.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19(run right\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "D:\\android EXE\\ApiDemos19(run right\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19(run right\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preference_headers.xml",
+        "source": "D:\\android EXE\\ApiDemos19(run right\\app\\src\\main\\res\\xml\\preference_headers.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19(run right\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_headers.xml",
+        "source": "D:\\android EXE\\ApiDemos19(run right\\app\\src\\main\\res\\xml\\device_admin_headers.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19(run right\\app\\build\\intermediates\\res\\merged\\debug\\xml\\advanced_preferences.xml",
+        "source": "D:\\android EXE\\ApiDemos19(run right\\app\\src\\main\\res\\xml\\advanced_preferences.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\debug\\xml\\fragmented_preferences_inner.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\xml\\fragmented_preferences_inner.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_expiration.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\xml\\device_admin_expiration.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19(run right\\app\\build\\intermediates\\res\\merged\\debug\\xml\\filter_nfc.xml",
+        "source": "D:\\android EXE\\ApiDemos19(run right\\app\\src\\main\\res\\xml\\filter_nfc.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preference_dependencies.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\xml\\preference_dependencies.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19(run right\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_encryption.xml",
+        "source": "D:\\android EXE\\ApiDemos19(run right\\app\\src\\main\\res\\xml\\device_admin_encryption.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_headers.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\xml\\device_admin_headers.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19(run right\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_lock_wipe.xml",
+        "source": "D:\\android EXE\\ApiDemos19(run right\\app\\src\\main\\res\\xml\\device_admin_lock_wipe.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_sample.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\xml\\device_admin_sample.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19(run right\\app\\build\\intermediates\\res\\merged\\debug\\xml\\fragmented_preferences_inner.xml",
+        "source": "D:\\android EXE\\ApiDemos19(run right\\app\\src\\main\\res\\xml\\fragmented_preferences_inner.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19(run right\\app\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
+        "source": "D:\\android EXE\\ApiDemos19(run right\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19(run right\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_expiration.xml",
+        "source": "D:\\android EXE\\ApiDemos19(run right\\app\\src\\main\\res\\xml\\device_admin_expiration.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19(run right\\app\\build\\intermediates\\res\\merged\\debug\\xml\\taskbackconfig.xml",
+        "source": "D:\\android EXE\\ApiDemos19(run right\\app\\src\\main\\res\\xml\\taskbackconfig.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\debug\\xml\\appwidget_provider.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\xml\\appwidget_provider.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19(run right\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_sample.xml",
+        "source": "D:\\android EXE\\ApiDemos19(run right\\app\\src\\main\\res\\xml\\device_admin_sample.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\debug\\xml\\filter_nfc.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\xml\\filter_nfc.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_general.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\xml\\device_admin_general.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\debug\\xml\\fragmented_preferences.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\xml\\fragmented_preferences.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19(run right\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_general.xml",
+        "source": "D:\\android EXE\\ApiDemos19(run right\\app\\src\\main\\res\\xml\\device_admin_general.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19(run right\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_quality.xml",
+        "source": "D:\\android EXE\\ApiDemos19(run right\\app\\src\\main\\res\\xml\\device_admin_quality.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\debug\\xml\\taskbackconfig.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\xml\\taskbackconfig.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_lock_wipe.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\xml\\device_admin_lock_wipe.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19(run right\\app\\build\\intermediates\\res\\merged\\debug\\xml\\default_values.xml",
+        "source": "D:\\android EXE\\ApiDemos19(run right\\app\\src\\main\\res\\xml\\default_values.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19(run right\\app\\build\\intermediates\\res\\merged\\debug\\xml\\appwidget_provider.xml",
+        "source": "D:\\android EXE\\ApiDemos19(run right\\app\\src\\main\\res\\xml\\appwidget_provider.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preference_headers.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\xml\\preference_headers.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_encryption.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\xml\\device_admin_encryption.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\debug\\xml\\advanced_preferences.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\xml\\advanced_preferences.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preference_switch.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\xml\\preference_switch.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin_quality.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\xml\\device_admin_quality.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19(run right\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preference_dependencies.xml",
+        "source": "D:\\android EXE\\ApiDemos19(run right\\app\\src\\main\\res\\xml\\preference_dependencies.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19(run right\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preference_switch.xml",
+        "source": "D:\\android EXE\\ApiDemos19(run right\\app\\src\\main\\res\\xml\\preference_switch.xml"
+    }
+]

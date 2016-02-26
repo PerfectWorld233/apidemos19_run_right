@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\menu\\searchview_in_menu.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\menu\\searchview_in_menu.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\menu\\actions.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\menu\\actions.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\menu\\title_icon.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\menu\\title_icon.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\menu\\action_bar_share_action_provider.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\menu\\action_bar_share_action_provider.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\menu\\category_order.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\menu\\category_order.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\menu\\disabled.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\menu\\disabled.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\menu\\content_actions.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\menu\\content_actions.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\menu\\checkable.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\menu\\checkable.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\menu\\order.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\menu\\order.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\menu\\presentation_with_media_router_menu.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\menu\\presentation_with_media_router_menu.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\menu\\action_bar_settings_action_provider.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\menu\\action_bar_settings_action_provider.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\menu\\popup.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\menu\\popup.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\menu\\print_custom_content.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\menu\\print_custom_content.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\menu\\groups.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\menu\\groups.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\menu\\camera_menu.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\menu\\camera_menu.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\menu\\list_select_menu.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\menu\\list_select_menu.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\menu\\submenu.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\menu\\submenu.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\menu\\shortcuts.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\menu\\shortcuts.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\menu\\display_options_actions.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\menu\\display_options_actions.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\menu\\title_only.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\menu\\title_only.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\release\\menu\\visible.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\menu\\visible.xml"
+    }
+]

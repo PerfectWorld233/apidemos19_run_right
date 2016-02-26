@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\android EXE\\ApiDemos19(run right\\app\\build\\intermediates\\res\\merged\\debug\\transition\\changebounds.xml",
+        "source": "D:\\android EXE\\ApiDemos19(run right\\app\\src\\main\\res\\transition\\changebounds.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19(run right\\app\\build\\intermediates\\res\\merged\\debug\\transition\\changebounds_fadeout_sequential.xml",
+        "source": "D:\\android EXE\\ApiDemos19(run right\\app\\src\\main\\res\\transition\\changebounds_fadeout_sequential.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\debug\\transition\\transitions_mgr.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\transition\\transitions_mgr.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\debug\\transition\\changebounds.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\transition\\changebounds.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19(run right\\app\\build\\intermediates\\res\\merged\\debug\\transition\\changebounds_fadein_together.xml",
+        "source": "D:\\android EXE\\ApiDemos19(run right\\app\\src\\main\\res\\transition\\changebounds_fadein_together.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\debug\\transition\\changebounds_fadein_together.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\transition\\changebounds_fadein_together.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19\\app\\build\\intermediates\\res\\merged\\debug\\transition\\changebounds_fadeout_sequential.xml",
+        "source": "D:\\android EXE\\ApiDemos19\\app\\src\\main\\res\\transition\\changebounds_fadeout_sequential.xml"
+    },
+    {
+        "merged": "D:\\android EXE\\ApiDemos19(run right\\app\\build\\intermediates\\res\\merged\\debug\\transition\\transitions_mgr.xml",
+        "source": "D:\\android EXE\\ApiDemos19(run right\\app\\src\\main\\res\\transition\\transitions_mgr.xml"
+    }
+]
